@@ -68,12 +68,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project focused on demonstrate:
-* A web application created with Spring Boot;
-* Maven
+This is A CRUD web application, representing a  focused on demonstrate the use of:
+
 
 ### Built With
 
+* Spring Boot;
+* Maven
+* MySQL
+* Thymeleaf
+* JPA
 
 <!-- GETTING STARTED -->
 ## Getting Started
