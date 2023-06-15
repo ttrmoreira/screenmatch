@@ -51,15 +51,8 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -68,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is A CRUD web application, representing a  focused on demonstrate the use of:
+This is a Java Web Application implementing a CRUD os a service of movies register. This project was built using IntelliJ IDEA and JDK 17.
 
 
 ### Built With
@@ -84,35 +77,9 @@ This is A CRUD web application, representing a  focused on demonstrate the use o
 
 ### Prerequisites
 
-### Installation
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-
-<!-- LICENSE -->
-## License
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+You need to install in your computer:
+- JDK (Java Development Kit) 17
+- IntelliJ IDEA (Community Version)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
